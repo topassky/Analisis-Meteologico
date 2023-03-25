@@ -4,8 +4,8 @@ Este repositorio contiene el código y los datos utilizados para llevar a cabo u
 El análisis se llevó a cabo utilizando Python y las bibliotecas Pandas, Matplotlib y Seaborn. Los principales objetivos del análisis fueron determinar las tendencias y patrones en los datos de temperatura, presión, velocidad del viento, humedad y precipitación.
 
 ## Contenido del Repositorio
-datos_envigado.csv: datos meteorológicos de la estación de Envigado.
-datos_medellin.csv: datos meteorológicos de la estación de Medellín.
+Datos Envigado: datos meteorológicos de la estación de Envigado.
+Datos Medellin: datos meteorológicos de la estación de Medellín.
 analisis_envigado.ipynb: cuaderno Jupyter con el análisis de datos de la estación de Envigado.
 analisis_medellin.ipynb: cuaderno Jupyter con el análisis de datos de la estación de Medellín.
 graficas_envigado: carpeta que contiene las gráficas generadas a partir del análisis de datos de la estación de Envigado.
